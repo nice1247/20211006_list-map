@@ -6,7 +6,7 @@ import java.util.Map;
 import co.micol.prj.vo.DevVO;
 
 public class MainApp2 {
-	private static MapTest mapTest;
+//	private static MapTest mapTest;
 	public static void main(String[] args) {
 //		mapTest = new MapTest(); // 인스턴스 초기화/생성
 //		mapTest.setMap("mico", "1234");
